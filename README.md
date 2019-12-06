@@ -1,4 +1,3 @@
-# Jennifer Wilcox
-Welcome to my website!
+# Jennifer Wilcox's GitHub page
 
-Please click here to view the dashboard for Project #2.
+This is the git project that hosts my GitHub page
